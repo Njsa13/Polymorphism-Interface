@@ -1,0 +1,7 @@
+D:\Kuliah\S2\Pemrograman\10\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\TugasPolymorphism2.exe.config
+D:\Kuliah\S2\Pemrograman\10\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\TugasPolymorphism2.exe
+D:\Kuliah\S2\Pemrograman\10\TugasPolymorphism2\TugasPolymorphism2\bin\Debug\TugasPolymorphism2.pdb
+D:\Kuliah\S2\Pemrograman\10\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\TugasPolymorphism2.csprojAssemblyReference.cache
+D:\Kuliah\S2\Pemrograman\10\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\TugasPolymorphism2.csproj.CoreCompileInputs.cache
+D:\Kuliah\S2\Pemrograman\10\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\TugasPolymorphism2.exe
+D:\Kuliah\S2\Pemrograman\10\TugasPolymorphism2\TugasPolymorphism2\obj\Debug\TugasPolymorphism2.pdb
